@@ -126,6 +126,18 @@ padding: 100px;
         width: 70%;
         transition: 1s ease;
     }
+
+    
+    /**/
+
+    @media (max-width:766px){
+
+        .guide{
+            flex-direction: column;
+        }
+
+        
+    }
     
 
     
